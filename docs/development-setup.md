@@ -97,7 +97,7 @@ cd core/core-frontend
 npm run lint:fix
 
 # 安装依赖
-yarn install
+npm install
 ```
 
 ### 3. 运行开发服务器
