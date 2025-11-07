@@ -35,6 +35,7 @@ module.exports = {
     ],
     'vue/multi-word-component-names': 0,
     '@typescript-eslint/no-explicit-any': ['off'],
+    '@typescript-eslint/no-unused-vars': ['off'],
     'vue/no-setup-props-destructure': ['off']
   }
 }
